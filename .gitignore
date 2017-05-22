@@ -1,0 +1,15 @@
+# ide
+.idea
+./
+
+# npm
+js/node_modules
+js/npm-debug.log
+
+# css
+css/style.css
+
+
+# js
+js/node_modules
+pture.js

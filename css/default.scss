@@ -1,0 +1,13 @@
+@import '/../js/node_modules/reset-css/reset.css';
+@import './containers/header';
+@import './containers/footer';
+@import './config';
+
+body {
+  font-family: $mainFont;
+}
+body, ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
